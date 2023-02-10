@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72dbef8e-caf3-4a18-8b2d-34205772a30c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Range/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Range/src/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OopCourseJan2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OopCourseJan2023.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Range/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Range/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Range/src/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/Range/src/Range/Range.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\OopCourseJan2023\Range\src" />
       <recent name="C:\Users\Lenovo\IdeaProjects\OopCourseJan2023\Range" />
     </key>
   </component>
@@ -101,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675964670517</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавление задачи Range, часть 1">
+      <created>1675966636390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675966636390</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,16 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавление проекта в систему контроля версий" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление проекта в систему контроля версий" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Range/src/Main.java</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Добавление задачи Range, часть 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление задачи Range, часть 1" />
   </component>
 </project>

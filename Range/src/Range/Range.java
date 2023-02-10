@@ -1,3 +1,5 @@
+package Range;
+
 public class Range {
     private double from;
     private double to;

@@ -1,3 +1,5 @@
+import Range.Range;
+
 public class Main {
     public static void main(String[] args) {
         Range range = new Range(13.25, 18.15);
